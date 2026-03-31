@@ -87,10 +87,6 @@ Experiments expect:
 - **`greedy_reports`**: list of N strings (greedy-decoded reports)
 - **`sampled_reports`**: list of N lists, each with 10 sampled strings
 
-## Running Experiments
-
-See [RESULTS.md](RESULTS.md) for full reproduction commands and expected input data formats.
-
 ## Citation
 
 ```bibtex
