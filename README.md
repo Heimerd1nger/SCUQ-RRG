@@ -89,45 +89,7 @@ Experiments expect:
 
 ## Running Experiments
 
-### Report Scores
-
-```bash
-python -m src.uq.VroGreen \
-  --exp_name chexpert-plus \
-  --chexpert_file_path data/batch_chexpert_mimix_cxr_num3858.pkl \
-  --output_base_path results \
-  --num_samples 3858 --batch_size 16
-```
-
-### Sentence UQ
-
-```bash
-python -m src.uq.VroRadSent \
-  --exp CheXpertPlus_mimiccxr \
-  --chexpert_file data/batch_chexpert_mimix_cxr_num3858.pkl \
-  --num_samples 3858 --output_dir results/exp_result
-```
-
-### Abstention
-
-```bash
-python src/abstention/report_abstention.py \
-  --exp ChexpertPlus \
-  --green_scores_path data/green_scores-3858.pkl \
-  --green_uncertainty_path results/chexpert-plus/green_uncertainty-3858.csv \
-  --u_lexicalsim_path data/uq/lexicalUQ.csv \
-  --output_base_path results
-```
-
-### Calibration (RCE)
-
-```bash
-python src/misc/cal_rce.py \
-  --scores_path data/green_scores-3858.pkl \
-  --green_uncertainty_path results/chexpert-plus/green_uncertainty-3858.pkl \
-  --u_nll_path data/uq/u_nll.csv \
-  --u_lexicalsim_path data/uq/lexicalUQ.csv
-```
+See [RESULTS.md](RESULTS.md) for full reproduction commands and expected input data formats.
 
 ## Citation
 
