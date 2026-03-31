@@ -91,9 +91,10 @@ Experiments expect:
 
 ```bibtex
 @inproceedings{wang2025semantic,
-  title={Semantic Consistency-Based Uncertainty Quantification for Factuality in Radiology Report Generation},
-  author={Wang, Chenyu and Bhatt, Parth and Shrivastava, Harshit and Bittencourt, Lucas and Kalra, Mannudeep K. and Gichoya, Judy W. and Celi, Leo Anthony and Peng, Yuyin and Patel, Bhavik N. and Trivedi, Hari},
-  booktitle={Proceedings of the 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
+  title={Semantic consistency-based uncertainty quantification for factuality in radiology report generation},
+  author={Wang, Chenyu and Zhou, Weichao and Ghosh, Shantanu and Batmanghelich, Kayhan and Li, Wenchao},
+  booktitle={Findings of the Association for Computational Linguistics: NAACL 2025},
+  pages={1739--1754},
   year={2025}
 }
 ```
