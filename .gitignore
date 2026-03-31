@@ -5,3 +5,16 @@
 /branch
 /notebook
 /data
+
+# Python build artifacts
+dist/
+build/
+*.egg-info/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Claude
+CLAUDE.md
+.claude/
