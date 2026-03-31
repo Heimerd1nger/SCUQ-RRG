@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.04606-b31b1b)](https://arxiv.org/abs/2412.04606)
 [![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FarXiv%3A2412.04606%3Ffields%3DcitationCount&query=%24.citationCount&label=Cited%20by&color=blue)](https://aclanthology.org/2025.findings-naacl.95/)
+[![PyPI](https://img.shields.io/pypi/v/scuq-rrg?color=orange)](https://pypi.org/project/scuq-rrg/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 Code for the NAACL 2025 paper **"Semantic Consistency-Based Uncertainty Quantification for Factuality in Radiology Report Generation"**.
