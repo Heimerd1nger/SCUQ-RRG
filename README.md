@@ -87,14 +87,6 @@ Experiments expect:
 - **`greedy_reports`**: list of N strings (greedy-decoded reports)
 - **`sampled_reports`**: list of N lists, each with 10 sampled strings
 
-See [`example/example_data.ipynb`](example/example_data.ipynb) for the exact pickle/CSV format used in experiments.
-
-## Demos
-
-- [`example/VRO_GREEN_demo.ipynb`](example/VRO_GREEN_demo.ipynb) — report-level UQ walkthrough
-- [`example/VRO_Rad_demo.ipynb`](example/VRO_Rad_demo.ipynb) — sentence-level UQ walkthrough
-- [`example/quickstart.ipynb`](example/quickstart.ipynb) — end-to-end quickstart
-
 ## Running Experiments
 
 ### Report Scores
