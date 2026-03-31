@@ -1,7 +1,7 @@
 # SCUQ-RRG
 
 [![Paper](https://img.shields.io/badge/NAACL%202025-Findings-red)](https://aclanthology.org/2025.findings-naacl.95.pdf)
-[![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FACL%3A2025.findings-naacl.95%3Ffields%3DcitationCount&query=%24.citationCount&label=Cited%20by&color=blue)](https://aclanthology.org/2025.findings-naacl.95/)
+[![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2Fhttps%3A%2F%2Fdoi.org%2F10.18653%2Fv1%2F2025.findings-naacl.95&query=%24.cited_by_count&label=Cited%20by&color=blue)](https://aclanthology.org/2025.findings-naacl.95/)
 [![PyPI](https://img.shields.io/pypi/v/scuq-rrg?color=orange)](https://pypi.org/project/scuq-rrg/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
