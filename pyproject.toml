@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "scuq-rrg"
-version = "1.0.1"
+version = "1.0.2"
 description = "Semantic Consistency-Based Uncertainty Quantification for Radiology Report Generation"
 readme = "README.md"
 license = { file = "LICENSE" }
